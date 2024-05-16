@@ -83,7 +83,6 @@ test_prompts = [
     "What is the use of sidebar?",
     "How to deploy a Streamlit app?",
     "Supported data formats for upload?",
-    "How to use map for plotting?",
     "Create a multi-page app in Streamlit.",
     "How to use session state in app?",
     "Purpose of caching in Streamlit?",
